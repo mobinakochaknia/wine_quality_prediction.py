@@ -5,6 +5,7 @@ This project uses machine learning models to predict the quality of wine based o
 ## Dataset
 
 The dataset used is the Wine Quality dataset, which can be found here.
+'https://github.com/zygmuntz/wine-quality/blob/master/winequality/winequality-red.csv'
 
 ## Models Used
 
